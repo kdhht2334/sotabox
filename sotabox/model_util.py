@@ -1,4 +1,4 @@
-print("[INFO] load model_util")
+print("[INFO] loading model_util")
 
 def collect_trainable_weights(layer):
     """Collects all`trainable_weights` attributes,
