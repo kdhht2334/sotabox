@@ -1,4 +1,4 @@
-print("[INFO] dataset_util")
+print("[INFO] dataset_util toolbox")
 
 def normalize(train_data, test_data, use_channel_mean=True):
 
